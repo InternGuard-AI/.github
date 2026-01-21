@@ -14,15 +14,15 @@
 
 ### 👥 Proje Ekibi
   
-  | Role | Name |
+  | Rol | İsim |
   | :--- | :--- |
-  | **Academic Advisor** |  Öğr. Gör. Dr. Mahmut Kasap |
-  | **Industrial Advisor** | Dr. Süleyman Demir |
-  | **Team Leader** | <a href="https://github.com/xMrKerem">Görkem Kerem Aydın</a> |
-  | **Developer** | <a href="">Betül Orhan</a> |
-  | **Developer** | <a href="">Emir Güney</a> |
-  | **Developer** | <a href="https://github.com/lmeliskayal">Hira Melis Kaya</a> |
-  | **Developer** | <a href="">Senanur Ergün</a> |
+  | **Akademik Danışmanı** |  Öğr. Gör. Dr. Mahmut Kasap |
+  | **Sanayi Danışmanı** | Dr. Süleyman Demir |
+  | **Proje Yürütücüsü** | <a href="https://github.com/xMrKerem">Görkem Kerem Aydın</a> |
+  | **Proje Ortağı** | <a href="https://github.com/betul-l">Betül Orhan</a> |
+  | **Proje Ortağı** | <a href="https://github.com/Emirg-cyber">Emir Güney</a> |
+  | **Proje Ortağı** | <a href="https://github.com/lmeliskayal">Hira Melis Kaya</a> |
+  | **Proje Ortağı** | <a href="https://github.com/senanurergun">Senanur Ergün</a> |
 
   ---
 
