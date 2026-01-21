@@ -12,6 +12,20 @@
   
   ---
 
+### 👥 Proje Ekibi
+  
+  | Role | Name |
+  | :--- | :--- |
+  | **Academic Advisor** |  Öğr. Gör. Dr. Mahmut Kasap |
+  | **Industrial Advisor** | Dr. Süleyman Demir |
+  | **Team Leader** | Görkem Kerem Aydın |
+  | **Developer** | Hira Melis Kaya |
+  | **Developer** | Senanur Ergün |
+  | **Developer** | Betül Orhan |
+  | **Developer** | Emir Güney |
+
+  ---
+
   ### 🛠️ Teknoloji Yığını (Tech Stack)
   
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
