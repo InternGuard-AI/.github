@@ -18,11 +18,11 @@
   | :--- | :--- |
   | **Academic Advisor** |  Öğr. Gör. Dr. Mahmut Kasap |
   | **Industrial Advisor** | Dr. Süleyman Demir |
-  | **Team Leader** | Görkem Kerem Aydın |
-  | **Developer** | Hira Melis Kaya |
-  | **Developer** | Senanur Ergün |
-  | **Developer** | Betül Orhan |
-  | **Developer** | Emir Güney |
+  | **Team Leader** | <a href="https://github.com/xMrKerem">Görkem Kerem Aydın</a> |
+  | **Developer** | <a href="">Betül Orhan</a> |
+  | **Developer** | <a href="">Emir Güney</a> |
+  | **Developer** | <a href="https://github.com/lmeliskayal">Hira Melis Kaya</a> |
+  | **Developer** | <a href="">Senanur Ergün</a> |
 
   ---
 
