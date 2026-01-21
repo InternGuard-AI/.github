@@ -16,7 +16,7 @@
   
   | Rol | İsim |
   | :--- | :--- |
-  | **Akademik Danışmanı** |  Öğr. Gör. Dr. Mahmut Kasap |
+  | **Akademik Danışman** |  Öğr. Gör. Dr. Mahmut Kasap |
   | **Sanayi Danışmanı** | Dr. Süleyman Demir |
   | **Proje Yürütücüsü** | <a href="https://github.com/xMrKerem">Görkem Kerem Aydın</a> |
   | **Proje Ortağı** | <a href="https://github.com/betul-l">Betül Orhan</a> |
