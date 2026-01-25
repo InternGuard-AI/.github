@@ -2,7 +2,7 @@
 
   # 🛡️ InternGuard AI - TÜBİTAK 2209-B
   
-  **Yapay Zeka Destekli, İntranet Tabanlı Staj Takip Sistemi**
+  **Yapay Zeka Destekli, Savunma Sanayi Firmalarında Öğrencilerin İş Yeri Eğitimlerinde Kullanılacak Süreç Takip Uygulaması**
 
   ---
 
@@ -14,15 +14,15 @@
 
 ### 👥 Proje Ekibi
   
-  | Rol | İsim |
-  | :--- | :--- |
-  | **Akademik Danışman** |  Öğr. Gör. Dr. Mahmut Kasap |
-  | **Sanayi Danışmanı** | Dr. Süleyman Demir |
-  | **Proje Yürütücüsü** | <a href="https://github.com/xMrKerem">Görkem Kerem Aydın</a> |
-  | **Proje Ortağı** | <a href="https://github.com/betul-l">Betül Orhan</a> |
-  | **Proje Ortağı** | <a href="https://github.com/Emirg-cyber">Emir Güney</a> |
-  | **Proje Ortağı** | <a href="https://github.com/lmeliskayal">Hira Melis Kaya</a> |
-  | **Proje Ortağı** | <a href="https://github.com/senanurergun">Senanur Ergün</a> |
+  | Rol | İsim | Görev |
+  | :--- | :--- | :--- |
+  | **Akademik Danışman** |  Öğr. Gör. Dr. Mahmut Kasap | ---
+  | **Sanayi Danışmanı** | Dr. Süleyman Demir | ---
+  | **Proje Yürütücüsü** | <a href="https://github.com/xMrKerem">Görkem Kerem Aydın</a> | AI & Backend |
+  | **Proje Ortağı** | <a href="https://github.com/betul-l">Betül Orhan</a> | Frontend |
+  | **Proje Ortağı** | <a href="https://github.com/Emirg-cyber">Emir Güney</a> | Frontend & Security |
+  | **Proje Ortağı** | <a href="https://github.com/lmeliskayal">Hira Melis Kaya</a> | Backend |
+  | **Proje Ortağı** | <a href="https://github.com/senanurergun">Senanur Ergün</a> | Database & Backend  |
 
   ---
 
