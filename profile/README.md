@@ -27,7 +27,9 @@
   ---
 
   ### 🛠️ Teknoloji Yığını (Tech Stack)
+
   
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Frontend-Svelte-orange?style=for-the-badge&logo=svelte" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb" />
